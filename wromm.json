@@ -1,0 +1,8 @@
+{
+  "name": "setup-node-v7-repro",
+  "runtimes": [{ "name": "node", "version": "24" }],
+  "system_packages": ["git", "curl", "ca-certificates"],
+  "services": [],
+  "ports": [],
+  "env": {}
+}
