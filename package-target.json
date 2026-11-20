@@ -1,0 +1,9 @@
+{
+  "name": "setup-node-v7-repro",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "npm@11.6.2",
+  "scripts": {
+    "test": "node -e \"require('node:assert/strict').equal(2 + 2, 4)\""
+  }
+}
